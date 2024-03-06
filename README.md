@@ -49,3 +49,8 @@ Kemudian, keluaran dari objek garasi dan objek parkir akan ditampilkan
    - Opsi untuk keluar dari program.
 3. User akan diminta untuk memilih nomor yang sesuai dengan opsi yang diinginkan.
 4. Setelah User memilih opsi yang diinginkan, program akan menampilkan data kendaraan.
+
+# Dokumentasi Program
+1. Jika user memilih opsi nomor 1
+![WhatsApp Image 2024-03-05 at 19 20 32](https://github.com/daffahag123/LP4DPBO2024C2/assets/135239333/9ca792a0-4f6a-4149-b6c7-848309bcefc0)
+
