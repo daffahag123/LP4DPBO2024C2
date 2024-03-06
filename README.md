@@ -35,3 +35,6 @@ Dalam proses pembuatan program berbasis OOP, saya menggunakan 2 bahasa pemrogram
    - Memiliki Atribut: Baris dan Kolom
    - Memiliki Method: Konstruktor, Setter & Getter, Membuat Tabel & Menampilkan Data
     
+Selanjutnya, saya membuat objek motor dan mobil di dalam blok kode utama, lalu menambahkannya ke dalam list daftarMobil dan daftarMotor. 
+Setelah itu, saya membuat objek parkir dan garasi dengan memasukkan parameter di dalamnya, termasuk list daftarMobil dan daftarMotor. Ini karena setiap garasi akan menampung sejumlah mobil dan motor.
+Kemudian, keluaran dari objek garasi dan objek parkir akan ditampilkan
