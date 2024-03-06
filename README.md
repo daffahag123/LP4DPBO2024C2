@@ -38,3 +38,14 @@ Dalam proses pembuatan program berbasis OOP, saya menggunakan 2 bahasa pemrogram
 Selanjutnya, saya membuat objek motor dan mobil di dalam blok kode utama, lalu menambahkannya ke dalam list daftarMobil dan daftarMotor. 
 Setelah itu, saya membuat objek parkir dan garasi dengan memasukkan parameter di dalamnya, termasuk list daftarMobil dan daftarMotor. Ini karena setiap garasi akan menampung sejumlah mobil dan motor.
 Kemudian, keluaran dari objek garasi dan objek parkir akan ditampilkan
+
+# Alur Program
+1. User akan diberikan pilihan yang tersedia untuk menampilkan daftar kendaraan.
+2. Setelah itu, program akan menampilkan opsi-opsi yang tersedia, antara lain:
+   - Menampilkan daftar kendaraan mobil dan motor yang ada di dalam garasi toko.
+   - Menampilkan daftar kendaraan mobil dan motor yang ada di dalam garasi rumah.
+   - Menampilkan daftar kendaraan yang terparkir di area parkir mobil apartemen.
+   - Menampilkan daftar kendaraan yang terparkir di area parkir motor apartemen.
+   - Opsi untuk keluar dari program.
+3. User akan diminta untuk memilih nomor yang sesuai dengan opsi yang diinginkan.
+4. Setelah User memilih opsi yang diinginkan, program akan menampilkan data kendaraan.
