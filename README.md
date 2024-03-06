@@ -1,5 +1,6 @@
 # LP4DPBO2024C2
 
+# Janji
 Saya Daffa Fakhry Anshori dengan NIM 2200337 mengerjakan soal Latihan 4 dalam Praktikum mata kuliah Desain dan Pemrograman Berbasis Objek, 
 untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamin.
 
@@ -51,6 +52,18 @@ Kemudian, keluaran dari objek garasi dan objek parkir akan ditampilkan
 4. Setelah User memilih opsi yang diinginkan, program akan menampilkan data kendaraan.
 
 # Dokumentasi Program
-1. Jika user memilih opsi nomor 1
+1. Jika user memilih opsi nomor 1, maka akan menampilkan daftar mobil & motor di dalam garasi toko
 ![WhatsApp Image 2024-03-05 at 19 20 32](https://github.com/daffahag123/LP4DPBO2024C2/assets/135239333/9ca792a0-4f6a-4149-b6c7-848309bcefc0)
 
+2. Jika user memilih opsi nomor 2, maka akan menampilkan daftar mobil & motor di dalam garasi rumah
+![WhatsApp Image 2024-03-05 at 19 57 12](https://github.com/daffahag123/LP4DPBO2024C2/assets/135239333/560fd781-1aff-41d0-a85b-5f0af50d7a95)
+
+3. Jika user memilih opsi nomor 3, maka akan menampilkan daftar mobil di dalam parkiran mobil apartemen
+![WhatsApp Image 2024-03-05 at 19 58 09](https://github.com/daffahag123/LP4DPBO2024C2/assets/135239333/ce153692-da1e-4afc-b36a-75be0b0d1af2)
+
+4. Jika user memilih opsi nomor 4, maka akan menampilkan daftar motor di dalam parkiran motor apartemen
+![WhatsApp Image 2024-03-05 at 19 59 03](https://github.com/daffahag123/LP4DPBO2024C2/assets/135239333/681884e9-926d-4da0-ad51-7a49f631ba98)
+
+5. Jika user memilih opsi nomor 5, maka akan keluar dari program
+![WhatsApp Image 2024-03-05 at 20 06 01](https://github.com/daffahag123/LP4DPBO2024C2/assets/135239333/bdc0cfef-447c-4c5d-b416-4a1025bbc8c6)
+   
